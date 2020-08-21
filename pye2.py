@@ -204,7 +204,7 @@ def main(p=args.path):
     node_count, node_data = get_node_data(p)
 
     # For easier counting
-    node_types = len(node_count)
+    node_types = len(node_count)  # For future use
     total_nodes = len(node_data)
 
     # Sort by number of nodes in descending order
