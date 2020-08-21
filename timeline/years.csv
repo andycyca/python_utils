@@ -1,0 +1,10 @@
+group_name,group_order,name,start,stop
+Antigua Grecia, 1, Preclásico, -1200, -750
+Antigua Grecia, 1, Clásico, -750, -250
+Antigua Grecia, 1, Posclásico, -250, 150
+Mesoamérica, 2, Preclásico Mesoamericano, 0, 750
+Mesoamérica, 2, Clásico Mesoamericano, 750, 1250
+Mesoamérica, 2, Posclásico Mesoamericano, 1250, 1521
+Edad Media, 3, Uno, 800, 1200
+Edad Media, 3, Dos, 1200, 1700
+Edad Media, 3, Tres, 1700, 1750
